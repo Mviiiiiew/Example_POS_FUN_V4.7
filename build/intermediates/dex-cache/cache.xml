@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e1a02d69d133948907fd69a5d213fd0faf96eb2a">
+        <dex dex="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5b78d0891d955015b971153a60e0a207dea02f67.jar" />
+    </item>
+    <item
+        jar="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\libs\ZCSComboV2.5.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ae35522a13e983a1e22430e35769eed89f62a1bd">
+        <dex dex="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\pre-dexed\debug\ZCSComboV2.5.1_3605c939ed506ec5e597c0236f821acec3aa1c77.jar" />
+    </item>
+    <item
+        jar="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4a39625adb96c25f74dbfbb3bb14d1d703bfbaa8">
+        <dex dex="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\pre-dexed\debug\instant-run_0b3f38dcc9dc5950deb1689040e774c9bf88f167.jar" />
+    </item>
+    <item
+        jar="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\libs\IdCard.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="75eca1ae5b7d8a00115f4698fc5e4d8268c7614f">
+        <dex dex="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\pre-dexed\debug\IdCard_49b3d0f7a642309ffab64a5d65b609040807f209.jar" />
+    </item>
+    <item
+        jar="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\libs\zxing.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\pre-dexed\debug\zxing_6fa41d2abc4852cf7fdeb25d7f44ec1905edad85.jar" />
+    </item>
+    <item
+        jar="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\libs\pos(d)_jar_v3.9.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7b5c5a37addfaa6122731941efefb2db2d01408a">
+        <dex dex="C:\Users\MAN\AndroidStudioProjects\POS_Fun_V4.7\app\build\intermediates\pre-dexed\debug\pos(d)_jar_v3.9_434d7c904cf81e18cc6357db2910ca97f3134892.jar" />
+    </item>
+
+</items>

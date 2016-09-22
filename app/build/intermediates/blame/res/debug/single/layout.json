@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\iccard_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\iccard_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonddevice_item.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\bonddevice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\j001_apidemo_main_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\j001_apidemo_main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\psam_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\psam_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buzzer_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\buzzer_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\laserlight_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\laserlight_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sp10pinpad_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\sp10pinpad_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\led_contorller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\led_contorller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\magneticcard_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\magneticcard_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rs232_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\rs232_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprint_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\fingerprint_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nfc_readwrite.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\activity_nfc_readwrite.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carmer_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\carmer_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\bluetooth_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nfc_readwrite_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\nfc_readwrite_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdata_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\printdata_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\readid.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\readid.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\t001_apidemo_main_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\t001_apidemo_main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nfc_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\nfc_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barcode.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\activity_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idcard_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\idcard_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\n20pinpad_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\n20pinpad_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cashbox_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\cashbox_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unbonddevice_item.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\unbonddevice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printer_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\printer_controller_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fingerprintrecognition_controller_layout.xml",
+        "source": "C:\\Users\\MAN\\AndroidStudioProjects\\POS_Fun_V4.7\\app\\src\\main\\res\\layout\\fingerprintrecognition_controller_layout.xml"
+    }
+]

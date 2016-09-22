@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 20
+    buildToolsVersion "24.0.2"
+    defaultConfig {
+        applicationId "com.POS.apis"
+        minSdkVersion 8
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+
+}
+
+dependencies {
+    compile files('libs/IdCard.jar')
+    compile files('libs/pos(d)_jar_v3.9.jar')
+    compile files('libs/ZCSComboV2.5.1.jar')
+    compile files('libs/zxing.jar')
+
+}
